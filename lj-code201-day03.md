@@ -1,5 +1,5 @@
 # LJ Code 201 - Day 3  
-The today we did git branches, data types, and loops.  
+Today we did git branches, data types, and loops.  
 
 Again, the git information was much clearer once I was creating branches on my own computer. After creating branches and switching around between them, all the commands made much more sense than in the tutorial. So far so good on branches. Hopefully conflicts will not complicate matters too much.
 
